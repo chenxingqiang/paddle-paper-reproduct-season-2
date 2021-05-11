@@ -18,6 +18,7 @@
      code: https://github.com/microsoft/Swin-Transformer.git
 
 - (5）Co-Scale Conv-Attentional Image Transformers
+     
      code: https://github.com/mlpc-ucsd/CoaT.git
 
 - (6）Token Labeling: Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet
@@ -30,4 +31,4 @@
 
 - (8）Going deeper with Image Transformers
    
-   code: https://github.com/facebookresearch/deit.git
+    code: https://github.com/facebookresearch/deit.git
